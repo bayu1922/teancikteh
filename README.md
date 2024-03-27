@@ -1,4 +1,3 @@
-TEMCIKTEH
 ⛓️🔗⛓️ Template for IBC enabled Solidity contracts
 This repo provides a starter project to build IBC enabled Solidity contracts that connect rollups to one another Polymer Hub, through the vIBC core contracts.
 
